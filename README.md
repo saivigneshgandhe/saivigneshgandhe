@@ -1,6 +1,4 @@
-# Sai Vignesh - Finance Professional and Tech Enthusiast 👋
-
-<img align="right" src="https://github.com/saivignesh-bassure/saivignesh-bassure/blob/main/finance-tech.png" width="300" height="300">
+# Hello, I'm Sai Vignesh 👋
 
 **Welcome to my GitHub profile!** I'm a finance professional with a passion for bridging the worlds of finance and emerging technologies. My work revolves around harnessing the power of data analytics, machine learning, and automation to drive insights, optimize decision-making, and streamline financial processes.
 
